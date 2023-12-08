@@ -5,8 +5,8 @@ In recent years, transformer-based models have demonstrated remarkable success a
 ## Objectives
 
 1. **Multitask Learning:**
-   - *Binary Classification
-   - *Similarity
+   - Binary Classification
+   - Similarity
 
 ## Methodology
 
